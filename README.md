@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Riya Haria</h1>
+<h1 align="center">Hii
+  I'm Riya Haria</h1>
 <h3 align="center">A passionate Developer & Learner 🚀</h3>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riyaharia&theme=tokyonight&margin-w=10&margin-h=10" alt="riyaharia trophies" />
-  </a>
-</p>
 
 ---
 
@@ -17,6 +10,16 @@
 - 💬 Ask me about **Web Development, Python, SQL & FastApi**
 - 📄 Check out my experiences: [My Resume](https://drive.google.com/file/d/1Yf6hjuI43jMkaw8aQGiMogrMmMAX-W_H/view?usp=sharing)
 - ⚡ Fun fact: I love building projects that solve real-world problems ✨
+
+  
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riyaharia&theme=tokyonight&margin-w=10&margin-h=10" alt="riyaharia trophies" />
+  </a>
+</p>
 
 ---
 
@@ -33,7 +36,6 @@
 ---
 
 ### ⚒️ Languages & Tools
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="40" height="40"/>
@@ -47,9 +49,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
+
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
