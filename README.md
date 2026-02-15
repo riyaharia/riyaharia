@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **personal projects & problem solving**
 - 🌱 Exploring **Backend Development Data Science**
 - 💬 Ask me about **Web Development, Python, SQL & FastApi**
-- 📄 Check out my experiences: [My Resume](https://drive.google.com/file/d/1Yf6hjuI43jMkaw8aQGiMogrMmMAX-W_H/view?usp=sharing)
 - ⚡ Fun fact: I love building projects that solve real-world problems ✨
 
   
@@ -100,12 +99,7 @@
 
 ---
 
-### 🚀 Projects Showcase
-- 🔹 Women’s Safety Route Recommendation System 🛡️  
-- 🔹 Milk Adulteration Detection using IoT & ML 🥛  
-- 🔹 FinSightAI – AI-driven Financial Analysis 📊   
 
----
 
 
 <p align="center">
