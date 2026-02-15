@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I love building projects that solve real-world problems ✨
 
   
-
 ---
 
 <p align="center">
